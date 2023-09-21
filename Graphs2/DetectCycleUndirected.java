@@ -2,6 +2,7 @@ import java.io.*;
 import java.util.*;
 
 class Solution {
+	
 	//This function checks if a component is cyclic or not using BFS
 	public static boolean bfs(ArrayList<ArrayList<Integer>> graph,int src,boolean[] vis){
 		Queue<Integer>  q = new LinkedList<>();
