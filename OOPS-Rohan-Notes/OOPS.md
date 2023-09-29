@@ -1,0 +1,3 @@
+- Used to store custom user data
+- Kind of storing primitive data structures in a human-understandable DS
+- Use Case? Storing data about a student in a "collection" sort of a way

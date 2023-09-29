@@ -74,7 +74,7 @@ class Solution {
 		}
 		dfs(node.left,ans,psf+"0");
 		dfs(node.right,ans,psf+"1");
-		
+		List<Integer> arr = new LinkedList<>();
 		
 	}
 }

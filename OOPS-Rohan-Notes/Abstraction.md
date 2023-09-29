@@ -1,0 +1,2 @@
+- Hiding unnecessary details and showing the valuable  information.
+- We don't care about HOW, we just care about WHAT
